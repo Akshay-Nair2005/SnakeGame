@@ -5,11 +5,13 @@
     margin: 0;
 }
 
-body {
+body h1 {
+    font-size: 300%;
     /* display: flex; */
     /* background: linear-gradient(to right, rgb(76, 6, 188), rgb(134, 134, 241)); */
-    padding: 0%;
-
+    /* padding: 0%; */
+    /* height: 100vh; */
+    /* text-align: center; */
 }
 
 .body {
@@ -24,9 +26,13 @@ body {
     /* border: 2px solid red; */
 }
 
-body img {
-    height: 30%;
-    width: 25%;
+.vert {
+    display: block;
+}
+
+.vert img {
+    height: 100%;
+    width: 100%;
     /* border: 2px solid red; */
     /* padding-left: 5%; */
 }
