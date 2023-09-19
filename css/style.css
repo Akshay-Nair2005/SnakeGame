@@ -76,6 +76,8 @@ body h1 {
     grid-template-columns: repeat(18, 1fr);
     margin-right: 23%;
     margin-left: 0%;
+    box-shadow: 0px 0px 20px rgb(97, 1, 119);
+    border-radius: 2%;
 
 }
 
