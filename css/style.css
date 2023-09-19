@@ -25,8 +25,8 @@ body {
 }
 
 body img {
-    height: 25%;
-    width: 20%;
+    height: 30%;
+    width: 25%;
     /* border: 2px solid red; */
     /* padding-left: 5%; */
 }
@@ -68,7 +68,9 @@ body img {
     display: grid;
     grid-template-rows: repeat(18, 1fr);
     grid-template-columns: repeat(18, 1fr);
-    margin-right: 25%;
+    margin-right: 23%;
+    margin-left: 0%;
+
 }
 
 .head {
